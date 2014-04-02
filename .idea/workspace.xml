@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cookie_recipe.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 1/B1 Assignment - Structural and Semantic Markup/cookie_recipe.html">
+      <file leaf-file-name="Mixed-berry-pie_recipe.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 1/B1 Assignment - Structural and Semantic Markup/Mixed-berry-pie_recipe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="11" selection-start="152" selection-end="152" vertical-scroll-proportion="0.1754386" vertical-offset="0" max-vertical-offset="684">
+            <state line="12" column="52" selection-start="375" selection-end="375" vertical-scroll-proportion="0.26825634" vertical-offset="0" max-vertical-offset="671">
               <folding />
             </state>
           </provider>
@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/Week 1/A1 Self-Assessment Activity - Text and Lists/lists.html" />
         <option value="$PROJECT_DIR$/Week 1/A1 Self-Assessment Activity - Text and Lists/text.html" />
         <option value="$PROJECT_DIR$/Week 1/B1 Assignment - Structural and Semantic Markup/cookie_recipe.html" />
+        <option value="$PROJECT_DIR$/Week 1/B1 Assignment - Structural and Semantic Markup/Mixed-berry-pie_recipe.html" />
       </list>
     </option>
   </component>
@@ -198,7 +199,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="31" width="1333" height="805" extended-state="0" />
+    <frame x="18" y="31" width="1333" height="805" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -265,9 +266,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/B1 Assignment - Structural and Semantic Markup/cookie_recipe.html">
+    <entry file="file://$PROJECT_DIR$/Week 1/B1 Assignment - Structural and Semantic Markup/Mixed-berry-pie_recipe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="11" selection-start="152" selection-end="152" vertical-scroll-proportion="0.1754386" vertical-offset="0" max-vertical-offset="684">
+        <state line="12" column="52" selection-start="375" selection-end="375" vertical-scroll-proportion="0.26825634" vertical-offset="0" max-vertical-offset="671">
           <folding />
         </state>
       </provider>
