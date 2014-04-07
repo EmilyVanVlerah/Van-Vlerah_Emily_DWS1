@@ -1,0 +1,17 @@
+/* Obtained colors from Adobe Kuler and a Photo from Google Search*/
+body {
+    background-color: rgba(205, 242, 164, 0.85);
+    color: black;
+    padding: 20px;}
+h1 , h2 {
+    background-color: #CFC26C;
+    background-color: hsla(100%,100%,100%,0.1);
+    color: #5F7FAB;
+    padding: inherit;}
+p {
+    padding: 5px;
+    margin: 0px;
+    opacity: 0.90;}
+a{
+	color: #78B3BD;
+	color: hsl(0,100%,35%);}    
