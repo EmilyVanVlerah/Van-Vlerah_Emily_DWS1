@@ -12,13 +12,13 @@ h1 {
 p {
     padding: 5px;
     margin: 0px;}
-p.zero{
+p#zero{
     background-color: rgb(29, 101, 88);}
-p.one{
+p#one{
     background-color: rgb(69, 178, 157);}
-p.two{
+p#two{
     background-color: rgb(187, 93, 191);}
-p.three{
+p#three{
     background-color: rgb(127, 106, 37);}
-p.four{
+p#four{
     background-color: rgb(254, 216, 86);}
