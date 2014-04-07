@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="intro_to_css.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/Intro-to-css/intro_to_css.html">
+      <file leaf-file-name="color.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/color-styling-text/color.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="53" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="330">
+            <state line="5" column="69" selection-start="100" selection-end="160" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 2/Intro-to-css/CSS/styles.css">
+        <entry file="file://$PROJECT_DIR$/Week 2/color-styling-text/CSS/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="234" selection-end="234" vertical-scroll-proportion="0.35564855" vertical-offset="0" max-vertical-offset="717">
+            <state line="3" column="16" selection-start="54" selection-end="54" vertical-scroll-proportion="0.06355932" vertical-offset="0" max-vertical-offset="708">
               <folding />
             </state>
           </provider>
@@ -64,13 +64,16 @@
         <option value="$PROJECT_DIR$/Week 1/Van Vlerah-Emily-images/gallery.html" />
         <option value="$PROJECT_DIR$/Week 2/Intro-to-css/CSS/styles.css" />
         <option value="$PROJECT_DIR$/Week 2/Intro-to-css/intro_to_css.html" />
+        <option value="$PROJECT_DIR$/Week 2/color-styling-text/color.html" />
+        <option value="$PROJECT_DIR$/Week 2/color-styling-text/CSS/styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="537" />
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="814" />
+    <option name="width" value="903" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -148,11 +151,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Intro-to-css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS" />
+              <option name="myItemId" value="color-styling-text" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,14 +238,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="814" extended-state="7" />
+    <frame x="537" y="22" width="903" height="805" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19166666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30564785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -362,14 +361,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 2/Intro-to-css/styles.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="0" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/Intro-to-css/intro_to_css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="53" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="330">
+        <state line="8" column="18" selection-start="165" selection-end="165" vertical-scroll-proportion="0.16736402" vertical-offset="0" max-vertical-offset="717">
           <folding />
         </state>
       </provider>
@@ -377,6 +369,27 @@
     <entry file="file://$PROJECT_DIR$/Week 2/Intro-to-css/CSS/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="234" selection-end="234" vertical-scroll-proportion="0.35564855" vertical-offset="0" max-vertical-offset="717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Intro-to-css/intro_to_css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="60" selection-start="109" selection-end="172" vertical-scroll-proportion="0.111773476" vertical-offset="0" max-vertical-offset="671">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/color-styling-text/color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="69" selection-start="100" selection-end="160" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/color-styling-text/CSS/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="54" selection-end="54" vertical-scroll-proportion="0.06355932" vertical-offset="0" max-vertical-offset="708">
           <folding />
         </state>
       </provider>
