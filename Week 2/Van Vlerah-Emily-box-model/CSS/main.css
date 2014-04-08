@@ -1,0 +1,27 @@
+/* Obtained colors from Adobe Kuler and a Photo from Google Search*/
+body {
+    background-color: rgba(205, 242, 164, 0.85);
+    color: black;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;}
+h1 , h2 {
+    background-color: #CFC26C;
+    background-color: hsla(100%,100%,100%,0.1);
+    color: #5F7FAB;
+    padding: inherit;
+    font-family: Georgia, Times, serif;
+    font-weight: normal
+    text-shadow: 2px 2px #666666;
+    text-indent: 10px}
+h1{
+	font-size: 250%;
+	text-transform: uppercase;}
+p {
+    padding: 5px;
+    margin: 0px;
+    opacity: 0.90;
+    line-height: 1.4em;}
+a{
+	color: #78B3BD;
+	color: hsl(0,100%,35%);
+	font-style: italic;}    
