@@ -3,7 +3,8 @@ body {
     background-color: rgba(205, 242, 164, 0.85);
     color: black;
     padding: 20px;
-    font-family: Arial, Verdana, sans-serif;}
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;}
 h1 , h2 {
     background-color: #CFC26C;
     background-color: hsla(100%,100%,100%,0.1);
@@ -15,13 +16,27 @@ h1 , h2 {
     text-indent: 10px}
 h1{
 	font-size: 250%;
-	text-transform: uppercase;}
+	text-transform: uppercase;
+	border-style: groove;
+	border-width: 5px;}
+h2{
+	width: 500px;
+	height: 20px;	
+	border-radius: 100px; 
+	border-style: dotted;
+	box-shadow: 5px 5px #777777;}
 p {
     padding: 5px;
     margin: 0px;
     opacity: 0.90;
-    line-height: 1.4em;}
+    line-height: 1.4em;
+    text-align: left;}
 a{
 	color: #78B3BD;
 	color: hsl(0,100%,35%);
-	font-style: italic;}    
+	font-style: italic;}  
+ul li{
+	display: inline;
+	margin-right: 10px;}
+ol li{
+	text-align: left;}	  
