@@ -1,22 +1,36 @@
 body {
 	font-size: 80%;
-	font-family: "Courier New", Courier, monospace;
+	font-family: Arial, Verdana, sans-serif;
 	letter-spacing: 0.15em;	
 	background-color: #efefef;
 	}
 		
-ul {
+ul #nav {
 	list-style-type: none;
 	text-align: center;
 	width: 625px;
 	border-top: 2px solid #000;
 	border-bottom: 1px solid #000;
 	margin: 0px auto 0px auto;}
+	
+h1 {
+	font-size: 1.5em;}
+	
+h2 {
+	font-size: 1.33em;
+	clear: left;}
 
-p {
+h3 {
+	font-size: 1.25em;}
+
+div #content {
 	text-align: center;
 	width: 600px;
 	margin: 20px auto 20px auto;}
+	
+img #content {
+	float: left;
+	margin: 20px;}
 	
 a {
 	color: #000000;
@@ -37,3 +51,13 @@ li#pages{
 div#logo{
 	width: 303px;
 	margin: 10px auto 25px auto;}
+	
+div.column1of2 {
+	width: 280px;
+	float: left;
+	margin: 10px;}
+
+div.column2of2 {
+	width: 280px;
+	float: right;
+	margin: 10px;}
