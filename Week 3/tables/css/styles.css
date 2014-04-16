@@ -49,26 +49,19 @@ figcaption{
 	padding-left: 25px;}	
 table{
 	border: 0px;}
+th, td{
+	padding: 5px 30px 5px 10px;
+	font-size: 90%;
+	margin: 0px;
+	background-color: #cbd2d8;
+	border-top: 1px solid #f1f8fe;
+	border-bottom: 1px solid #cbd2d8;
+	border-right: 1px solid #cbd2d8;
+	text-shadow: 1px 1px 1px #ffffff;}
 th{
-	text-align: left;
-	padding: 5px 30px 5px 10px;
-	font-size: 90%;
-	margin: 0px;
-	background-color: #cbd2d8;
-	border-top: 1px solid #f1f8fe;
-	border-bottom: 1px solid #cbd2d8;
-	border-right: 1px solid #cbd2d8;
-	text-shadow: 1px 1px 1px #ffffff;}
+	text-align: left;}
 td{
-	text-align: right;
-	padding: 5px 30px 5px 10px;
-	font-size: 90%;
-	margin: 0px;
-	background-color: #cbd2d8;
-	border-top: 1px solid #f1f8fe;
-	border-bottom: 1px solid #cbd2d8;
-	border-right: 1px solid #cbd2d8;
-	text-shadow: 1px 1px 1px #ffffff;}
+	text-align: right;}
 tr.even{
 	background-color: #f1f8fe;}
 a {

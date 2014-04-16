@@ -15,26 +15,45 @@ h1 , h2 {
 #site{
 	background: linear-gradient(to bottom, rgba(204,242,164,1) 0%, rgba(119,153,81,1) 100%);
 	};
-#header{
+header{
 	font-size: 1.125em;
 	text-transform: uppercase;
 	border-radius: 10px;
 	border-style: groove;
 	border-width: 5px;}
 	
-#about_geckos{
+article #about_geckos{
 	background-color: #CFC26C;
 	width: 400px;
 	height: 1.313em;
 	border-style: dotted;
-	box-shadow: 5px 5px #777777;}
+	box-shadow: 5px 5px 10px #777777;}
 	
-#taxonomy{	 
+article #taxonomy{	 
 	background-color: #CFC26C;
 	width: 400px;
 	height: 1.313em;
 	border-style: dotted;
-	box-shadow: 5px 5px #777777;}
+	box-shadow: 5px 5px 10px #777777;}
+table{
+	width: 200px
+	border: 2px;
+	border-spacing: 4px}
+th, td{
+	padding: 5px 30px 5px 10px;
+	font-size: 100%;
+	margin: 0px;
+	background-color: #CFC26C;
+	border-top: 1px outside #f1f8fe;
+	border-bottom: 1px outset #cbd2d8;
+	border-right: 1px outset #cbd2d8;
+	text-shadow: 1px 1px 1px #ffffff;}
+th{
+	text-align: left;}
+td{
+	text-align: right;}
+tr:hover{
+	background-color: #5F7FAB;}	
 p {
     padding: 5px;
     margin: 0px;
@@ -48,14 +67,13 @@ a{
 ul li{
 	display: inline;
 	margin-right: 10px;}
-ol li{
-	text-align: left;}
+
 	
 /* -----------------------------------
 Site
 ----------------------------------- */
 
-#site #header
+#site header
 {
 	height: 150px;
 	background-image: url("../images/pattern_044.gif");
@@ -70,7 +88,7 @@ Site
 	
 }
 
-#site #nav
+#site nav
 {
 	float: right;
 	width: 27%;
@@ -83,17 +101,17 @@ Site
 	overflow: auto;
 }
 
-#site #content
+#site article
 {
 	float: left;
 	margin-left: 5%;
 	width: 65%;
-	height: 700px;
+	height: 450px;
 	margin-bottom: 10px;
 	overflow: auto;
 }
 
-#site #footer
+#site footer
 {
 	clear: both;
 	height: 100px;
