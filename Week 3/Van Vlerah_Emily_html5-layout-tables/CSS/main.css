@@ -1,0 +1,104 @@
+body {
+	
+    color: black;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+    background-image: url("../images/pattern_101.gif");}
+h1 , h2 {
+    color: #5F7FAB;
+    padding: inherit;
+    font-family: Georgia, Times, serif;
+    font-weight: normal
+    text-shadow: 2px 2px #666666;
+    text-indent: 10px}
+#site{
+	background: linear-gradient(to bottom, rgba(204,242,164,1) 0%, rgba(119,153,81,1) 100%);
+	};
+#header{
+	font-size: 1.125em;
+	text-transform: uppercase;
+	border-radius: 10px;
+	border-style: groove;
+	border-width: 5px;}
+	
+#about_geckos{
+	background-color: #CFC26C;
+	width: 400px;
+	height: 1.313em;
+	border-style: dotted;
+	box-shadow: 5px 5px #777777;}
+	
+#taxonomy{	 
+	background-color: #CFC26C;
+	width: 400px;
+	height: 1.313em;
+	border-style: dotted;
+	box-shadow: 5px 5px #777777;}
+p {
+    padding: 5px;
+    margin: 0px;
+    opacity: 0.90;
+    line-height: 1.4em;
+    text-align: left;}
+a{
+	color: #78B3BD;
+	color: hsl(0,100%,35%);
+	font-style: italic;}  
+ul li{
+	display: inline;
+	margin-right: 10px;}
+ol li{
+	text-align: left;}
+	
+/* -----------------------------------
+Site
+----------------------------------- */
+
+#site #header
+{
+	height: 150px;
+	background-image: url("../images/pattern_044.gif");
+	background-repeat: repeat-y;
+	background-position: right top;
+	background-color: #CFC26C;
+	margin-bottom: 10px;
+	clear: auto;
+	overflow: auto;
+	border-bottom: groove;
+	border-width: 5px;
+	
+}
+
+#site #nav
+{
+	float: right;
+	width: 27%;
+	height: 400px;
+	background: linear-gradient(to bottom, rgba(207,194,108,1) 0%, rgba(168,157,89,1) 100%);;
+	margin-bottom: 10px;
+	border-style: groove;
+	border-width: 5px;
+	clear: both;
+	overflow: auto;
+}
+
+#site #content
+{
+	float: left;
+	margin-left: 5%;
+	width: 65%;
+	height: 700px;
+	margin-bottom: 10px;
+	overflow: auto;
+}
+
+#site #footer
+{
+	clear: both;
+	height: 100px;
+	background-color: #CFC26C;
+	margin-bottom: 10px;
+	border-top: groove;
+	border-width: 5px;
+}
