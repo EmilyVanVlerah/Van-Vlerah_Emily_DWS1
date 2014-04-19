@@ -22,7 +22,7 @@ div #content_gallery {
 	text-align: center;
 	width: 500px;
 	margin: 20px auto 20px auto;}
-div #entry{
+div.entry{
 	width: 220px;
 	float:left;
 	height: 220px;

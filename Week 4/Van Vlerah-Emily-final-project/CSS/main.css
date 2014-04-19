@@ -1,0 +1,224 @@
+body {
+	/*didn't want to center my page because I like it that way it is*/
+    color: #DDA905;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: left;
+    background-image: url("../images/metal.jpg");
+    background-repeat: repeat;
+    text-shadow: 2px 2px 2px #922103;}
+h1, h2, h3 {
+    color: #DDA905;
+    padding: inherit;
+    font-family: Georgia, Times, serif;
+    font-weight: normal;
+    text-shadow: 2px 2px #666666;
+    text-indent: 10px;}
+h1{
+	font-size: 1.500em;}
+h2{
+	font-size: 1.313em;}
+h3{
+	font-size: 1.125em;}
+p {
+    padding: 5px;
+    margin: 0px;
+    opacity: 0.90;
+    line-height: 1.4em;
+    text-align: left;}
+a{
+	color: #FEDC55;
+	color: hsl(0,100%,35%);
+	font-style: italic;}
+a:hover{
+	cursor: pointer;
+	color: #AE4609;} 
+a:visited{
+	color: #DDA905;}
+a:link{
+	font-style: italic;}
+a:active{
+	color: #ffffff;}
+ul li{
+	margin-right: 10px;}	
+	
+/*end of small style and entering main page styles*/	
+	
+#site{
+	background: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 67%, rgba(41,61,72,1) 100%);
+	border-radius: 10px;
+	border: 5px outset #FEDC55;}
+#site header{
+	height: 280px;
+	width: 1834px;
+	background-image: url("../images/logo.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	margin-bottom: 10px;
+	overflow: auto;
+	
+}
+
+#site nav
+{
+	float: right;
+	width: 20%;
+	height: 200px;
+	background-color: #797985;
+	margin: 10px 30px 10px 20px;
+	border: 5px outset #DDA905;
+	clear: both;
+	overflow: auto;
+}
+
+#site article
+{
+	float: left;
+	margin-left: 5%;
+	width: 65%;
+	height: 650px;
+	margin-bottom: 10px;
+	overflow: auto;
+}
+article #about_makers{
+	width: 400px;
+	height: 1.313em;
+	border-style: outset;}
+	
+article #first{	 
+	width: 400px;
+	height: 1.313em;
+	border-style: outset;}
+article #second{	 
+	width: 400px;
+	height: 1.313em;
+	border-style: outset;}
+article #news{	 
+	width: 400px;
+	height: 1.313em;
+	border-style: outset;}
+
+	}
+figure {
+	display: block;
+	width: 202px;
+	height: 193px;
+	background-color: #96270C;
+	margin: 0px;
+	padding: 9px;}
+figure img{
+	width: 422px;
+	height: 599px;
+	border: 1px solid #96270C;}
+figcaption{
+	padding-top: 5px;
+	padding-left: 25px;}
+/*article #gallery{
+	float: left;
+	width: 400px;
+	height: 1.313em;}	
+figure{
+	display: block;
+	background-color: #ffffff;
+	width: 422px;
+	height: 599px;
+	margin: 0px;
+	padding: 9px;}
+figure img{
+	width: 422px;
+	height: 599px;
+	border: 2px outset #000000;}
+figcaption{
+	text-align: center;}*/
+table{
+	width: 200px;
+	border: 2px;
+	border-spacing: 4px;}
+th, td{
+	padding: 5px 30px 5px 10px;
+	font-size: 100%;
+	margin: 0px;
+	background-color: #797985;
+	border: 2px outset #DDA905;
+	}
+th:hover{
+	color: #96270C;}
+td:hover{
+	color: #96270C;}
+	
+th{
+	text-align: left;
+	text-transform: uppercase;}
+td{
+	text-align: right;}
+tr:hover{
+	background-color: #5F7FAB;}	
+
+
+/*contact form begins*/
+
+div #contact_content{
+	width: 350px; 
+	margin-bottom: 20px;
+	background-color: #797985;
+	opacity: 0.90;
+	width: 450px;
+	height: 500px;
+	border: 5px outset #DDA905;
+	box-shadow: 5px 5px 20px #561513;}
+fieldset{
+	width: 350px;
+	margin-top: 20px;
+	margin-left: 40px;
+	border: 2px outset #DDA905;}
+legend{
+	font-style: italic;
+	color: #DDA905;}
+input[type="text"]{
+	width: 120px;
+	border: 1px solid #5F7FAB;
+	padding: 2px;}
+input[type="text"]:hover{
+	background-color: #d0e2f0;
+	border: 1px solid #999999;}
+input[type="text"]:focus{
+	background-color: #d0e2f0;
+	border: 1px solid #999999;}
+input[type="password"]{
+	width: 120px;
+	border: 1px solid #5F7FAB;
+	padding: 2px;}
+input[type="password"]:hover{
+	background-color: #d0e2f0;
+	border: 1px solid #999999;}
+input[type="password"]:focus{
+	background-color: #d0e2f0;
+	border: 1px solid #999999;}
+input[type="submit"] {
+	float: right;
+	border: 1px solid #DDA905;
+	background-color: #8A0000;
+	color: #ffffff;
+	padding: 5px;
+	margin: 10px 50px 10px 10px }
+input[type="submit"]:hover {
+	cursor: pointer;
+	background-color: #AE4609;}
+textarea:hover{
+	background-color: #E9F4B2;
+	border: 1px solid #999999;}
+.submit{
+	width: 310px;
+	text-align: left;}
+/*contact form ends and end of page comes next*/
+#site footer
+{
+	clear: both;
+	height: 700px;
+	background-color: #172329;
+	margin-bottom: 10px;
+}
+	
+
+
+
