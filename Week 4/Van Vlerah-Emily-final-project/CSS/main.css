@@ -76,7 +76,7 @@ ul li{
 	float: left;
 	margin-left: 5%;
 	width: 65%;
-	height: 650px;
+	height: 700px;
 	margin-bottom: 10px;
 	overflow: auto;
 }
@@ -93,43 +93,6 @@ article #second{
 	width: 400px;
 	height: 1.313em;
 	border-style: outset;}
-article #news{	 
-	width: 400px;
-	height: 1.313em;
-	border-style: outset;}
-
-	}
-figure {
-	display: block;
-	width: 202px;
-	height: 193px;
-	background-color: #96270C;
-	margin: 0px;
-	padding: 9px;}
-figure img{
-	width: 422px;
-	height: 599px;
-	border: 1px solid #96270C;}
-figcaption{
-	padding-top: 5px;
-	padding-left: 25px;}
-/*article #gallery{
-	float: left;
-	width: 400px;
-	height: 1.313em;}	
-figure{
-	display: block;
-	background-color: #ffffff;
-	width: 422px;
-	height: 599px;
-	margin: 0px;
-	padding: 9px;}
-figure img{
-	width: 422px;
-	height: 599px;
-	border: 2px outset #000000;}
-figcaption{
-	text-align: center;}*/
 table{
 	width: 200px;
 	border: 2px;
@@ -139,8 +102,7 @@ th, td{
 	font-size: 100%;
 	margin: 0px;
 	background-color: #797985;
-	border: 2px outset #DDA905;
-	}
+	border: 2px outset #DDA905;}
 th:hover{
 	color: #96270C;}
 td:hover{
@@ -152,8 +114,30 @@ th{
 td{
 	text-align: right;}
 tr:hover{
-	background-color: #5F7FAB;}	
-
+	background-color: #5F7FAB;}
+article #news{	 
+	width: 400px;
+	height: 1.313em;
+	border-style: outset;}
+article #gallery{	 
+	width: 400px;
+	height: 1.313em;
+	border-style: outset;}
+figure {
+	display: block;
+	width: 422px;
+	height: 599px;
+	background-color: #96270C;
+	margin: 0px;
+	padding: 9px;}
+figure img{
+	width: 422px;
+	height: 599px;
+	border: 1px solid #DDA905;}
+figcaption{
+	padding-top: 5px;
+	padding-left: 25px;
+	text-align: center;}
 
 /*contact form begins*/
 
