@@ -119,23 +119,26 @@ article #news{
 	width: 400px;
 	height: 1.313em;
 	border-style: outset;}
-article #gallery{	 
+article #gallery{
+ 
 	width: 400px;
 	height: 1.313em;
 	border-style: outset;}
 figure {
-	display: block;
-	width: 422px;
+	display: block;	
+	width: 420px;
 	height: 599px;
 	background-color: #96270C;
 	margin: 0px;
 	padding: 9px;}
 figure img{
-	width: 422px;
-	height: 599px;
+
+	width: 400px;
+	height: 500px;
 	border: 1px solid #DDA905;}
 figcaption{
 	padding-top: 5px;
+	padding-bottom: 10px;
 	padding-left: 25px;
 	text-align: center;}
 
