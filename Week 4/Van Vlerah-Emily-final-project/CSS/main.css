@@ -53,7 +53,7 @@ ul li{
 	width: 1834px;
 	background-image: url("../images/logo.jpg");
 	background-repeat: no-repeat;
-	background-position: top;
+	background-position: top top;
 	margin-bottom: 10px;
 	overflow: auto;
 	
